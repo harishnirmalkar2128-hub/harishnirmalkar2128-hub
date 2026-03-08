@@ -71,13 +71,11 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
   <i>✨ "1% better every day" ✨</i>
 </p>
 <p align="center">
-  <b>— Harish Nirmalkar</b>
+  <b>- Harish Nirmalkar -</b>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <br>
-  <i>Let's connect and grow together! 🚀</i>
+  <i>🚀 Let's connect and grow together! 🚀</i>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-</p>
+
