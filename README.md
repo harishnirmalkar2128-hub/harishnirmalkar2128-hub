@@ -1,43 +1,18 @@
-<!-- ANIMATED NAME WITH GLOW EFFECT -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi,+I'm+Harish+Nirmalkar!;MCA+(AI+ML)+Student;Python+Developer;AI+ML+Enthusiast" alt="Typing SVG" />
-</h1>
+# 💫 About Me:
+Hey there! 👋<br>I'm Harish Nirmalkar, currently in my **2nd semester of MCA (AI & ML)** at Rungta International Skills University, Bhilai.  <br>Just started this journey, and honestly? It already feels like the right place to be. 🎓<br><br>Right now, my days are all about:<br>- 🐍 **Python** — getting my basics solid so I can actually build things.<br>- 📘 **DSA** — solving problems, one at a time (even if it takes a while!).<br>- 🗄️ **DBMS** — understanding how data works behind the scenes.<br><br>🚀 **My 2026 goal:**  <br>Improve how I **communicate** — both verbally and in writing. Because I've realized that even the best ideas don't matter if you can't explain them well.<br><br>Still figuring things out, but I'm learning every day. Let's see where this goes! 😊<br><br>💻** Projects Built**<br>🧮 Calculator | 📚 PDF Master | 🎤 Voice to Text | 🔐 Password Generator  <br>🎮 Rock Paper Scissors | ❌ Tic Tac Toe | 🕐 Digital Clock | 📝 Text Editor  <br>📅 Modern Calendar  💰 Expense Tracker  🎯 Number Guessing | 📱 Contact Book | 🎵 Spotify Clone | 🛒 Amazon Clone  <br><br><br>🔭 **Currently Working On**<br>- Building **Python projects** with modern GUI (| 🏦 Bank System | 📚 Library System )<br>- Mastering **DSA** for placement preparation<br>- Exploring **Machine Learning & AI** concepts<br><br>
 
-<!-- GLOWING NAME EFFECT (EXTRA) -->
-<h2 align="center" style="font-size: 2.5rem; text-shadow: 0 0 10px #6A5ACD, 0 0 20px #6A5ACD, 0 0 30px #6A5ACD;">
-  ✨ Harish Nirmalkar ✨
-</h2>
 
-<!-- SNAKE GAME CONTRIBUTION GRID -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarishNirmalkar/HarishNirmalkar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarishNirmalkar/HarishNirmalkar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarishNirmalkar/HarishNirmalkar/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harish-nirmalkar-b23776394) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com) 
 
-<!-- ABOUT ME -->
-## 👨‍💻 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harishnirmalkar2128-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harishnirmalkar2128-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishnirmalkar2128-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Hello! I've just embarked on my **Master of Computer Applications with Artificial Intelligence (MCA + AI/ML)** journey at Rungta International Skills University, Bhilai.
+---
+[![](https://visitcount.itsvg.in/api?id=harishnirmalkar2128-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 **My Goals:**
-- 🎯 **Skill Development:** Improving my core Python programming capabilities
-- 💼 **Professional Growth:** Enhancing communication skills for the tech industry
-
-<!-- CONNECT WITH ME -->
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harishnirmalkar)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/harish._.nirmalkar)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/HarishNirmalkar)
-
-📧 **Email:** harishnirmalkar2128@gmail.com  
-📱 **Phone:** +91 91316 53589  
-📍 **Location:** Bhilai, India
-
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarishNirmalkar&label=Profile%20Views&color=6A5ACD&style=flat" alt="profile views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
