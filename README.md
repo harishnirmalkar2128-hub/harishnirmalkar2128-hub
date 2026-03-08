@@ -78,4 +78,12 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
   <br>
   <i>🚀 Let's connect and grow together! 🚀</i>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&width=435&lines=Thanks+for+visiting!;Let's+connect+and+grow!;Have+a+great+day!+🌟" alt="typing gif">
+</p>
