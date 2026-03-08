@@ -66,17 +66,7 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/harishnirmalkar2128-hub/count.svg" alt="visitor counter" />
-</p>
-<p align="center">
-  <b>👥 People who visited my profile</b>
-</p>
-
 <!-- SUPPORT -->
-<p align="center">
-  <i>Made with ❤️ by Harish Nirmalkar</i>
-</p>
 <p align="center">
   <i>✨ "1% better every day" ✨</i>
 </p>
@@ -89,5 +79,5 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
   <i>Let's connect and grow together! 🚀</i>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C5CE7&center=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!+🌟" alt="thanks message">
+  <img src="https://readme-typing-svg.demolab.com?
 </p>
