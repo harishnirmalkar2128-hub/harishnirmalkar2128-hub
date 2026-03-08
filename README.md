@@ -68,7 +68,10 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=harishnirmalkar2128-hub&icon=5&color=6" alt="visit counter">
+  <img src="https://profile-counter.glitch.me/harishnirmalkar2128-hub/count.svg" alt="Visitor Counter">
+</p>
+<p align="center">
+  <i>👀 Total visitors to this profile</i>
 </p>
 
 <!-- SUPPORT -->
