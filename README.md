@@ -77,3 +77,17 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
 <p align="center">
   <i>Made with ❤️ by Harish Nirmalkar</i>
 </p>
+<p align="center">
+  <i>✨ "1% better every day" ✨</i>
+</p>
+<p align="center">
+  <b>— Harish Nirmalkar</b>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br>
+  <i>Let's connect and grow together! 🚀</i>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C5CE7&center=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!+🌟" alt="thanks message">
+</p>
