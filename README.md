@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:a29bfe&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
 <p align="center">
   🗄️ DBMS | 🐍 Python | 📘 DSA
 </p>
