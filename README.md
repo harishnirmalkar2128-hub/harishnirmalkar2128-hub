@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Harish%20Nirmalkar&fontSize=40&fontAlignY=35" width="100%">
 <p align="center">
-  🗄️ DBMS | 🐍 Python | 📘 DSA
+  <span style="font-size: 0.85rem; margin-top: -15px; display: block;">🗄️ DBMS | 🐍 Python | 📘 DSA</span>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&reversal=true&section=footer" width="100%">
 <!-- PROFILE VIEWS COUNTER -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&label=Profile%20Views&color=6C5CE7&style=flat" alt="profile views" /> 
