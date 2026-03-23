@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Harish%20Nirmalkar&fontSize=50&fontAlignY=35" width="100%">
+
 <!-- TYPING ANIMATION - ONLY HARISH NIRMALKAR -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Harish+Nirmalkar&center=true&width=380&height=50&color=6C5CE7&size=35">
