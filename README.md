@@ -1,9 +1,11 @@
 <!-- Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
 
-<!-- Subtitle -->
+<!-- Skill Badges -->
 <p align="center">
-  🐍 Python | 📘 DSA  |🗄️ DBMS
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 <!-- TYPING ANIMATION - ONLY HARISH NIRMALKAR -->
 <p align="center">
