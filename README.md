@@ -1,12 +1,5 @@
-<!-- Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Harish%20Nirmalkar%0A🗄️%20DBMS%20%7C%20🐍%20Python%20%7C%20📘%20DSA&fontSize=30&fontAlignY=42" width="100%">
 
-<!-- Skill Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=code&logoColor=white" />
-</p>
 <!-- TYPING ANIMATION - ONLY HARISH NIRMALKAR -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Harish+Nirmalkar&center=true&width=380&height=50&color=6C5CE7&size=35">
