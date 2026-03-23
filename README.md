@@ -77,3 +77,4 @@ Still figuring things out, but I'm learning every day. Let's see where this goes
   <br>
   <i>🚀 Let's connect and grow together! 🚀</i>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&reversal=true&section=footer" width="100%">
