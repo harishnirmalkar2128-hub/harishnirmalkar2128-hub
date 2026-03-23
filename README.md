@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Harish%20Nirmalkar%0A🗄️%20DBMS%20%7C%20🐍%20Python%20%7C%20📘%20DSA&fontSize=30&fontAlignY=42" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Harish%20Nirmalkar&fontSize=40&fontAlignY=35" width="100%">
+<p align="center">
+  🗄️ DBMS | 🐍 Python | 📘 DSA
+</p>
 <!-- TYPING ANIMATION - ONLY HARISH NIRMALKAR -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Harish+Nirmalkar&center=true&width=380&height=50&color=6C5CE7&size=35">
