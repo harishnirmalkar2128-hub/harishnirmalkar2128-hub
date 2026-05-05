@@ -12,21 +12,26 @@ I'm Harish Nirmalkar, currently in my 2nd Semester of MCA (AI & ML) at Rungta In
 
 I am a tech explorer who loves spending time on the internet discovering new tools, playing with AI, and building solutions using Low-Code platforms. I enjoy the process of turning ideas into reality without overcomplicating the code. Honestly? This journey already feels like the right place to be. 🚀 🎓<br><br>
 
-Right now, my days are all about:<br>
-- 🐍 **Python** — getting my basics solid so I can actually build things.<br>
-- 📘 **DSA** — solving problems, one at a time (even if it takes a while!).<br>
-- 🗄️ **DBMS** — understanding how data works behind the scenes.<br><br>
+🔭 Currently Diving Into<br>
+- 🐍 Python — Solidifying basics to build robust and efficient scripts.
 
-🚀 **My 2026 goal:**  <br>
-Improve how I **communicate** — both verbally and in writing. Because I've realized that even the best ideas don't matter if you can't explain them well.<br><br>
+📘 Data Structures — Strengthening problem-solving logic and algorithmic thinking.
+
+🗄️ DBMS — Mastering how data is structured and managed behind the scenes.
+
+🤖 AI Exploration — Deep-diving into NLP and intelligent system concepts<br><br>
+
+🚀 2026 Focus: Communication & Growth<br>
+I’ve realized that great tech is only as good as the person explaining it. This year, I’m doubling down on verbal and written communication to share my ideas more effectively.<br><br>
 
 Still figuring things out, but I'm learning every day. Let's see where this goes! 😊<br>
 
-## 💻 **Projects Built (16+)**
-🧮 Calculator | 📚 PDF Master | 🎤 Voice to Text | 🔐 Password Generator<br>
-🎮 Rock Paper Scissors | ❌ Tic Tac Toe | 🕐 Digital Clock | 📝 Text Editor<br>
-📅 Modern Calendar | 💰 Expense Tracker | 🎯 Number Guessing | 📱 Contact Book<br>
-🏦 Bank System | 📚 Library System | 🎵 Spotify Clone | 🛒 Amazon Clone<br><br>
+💻 Live Projects (Ready to Show)
+🔢 Advanced Calculator – A clean and functional tool built with Python.
+
+🔐 Secure Password Generator – Logic-based tool for creating high-entropy passwords.
+
+📝 To-Do Task Manager – A streamlined application to manage daily productivity.<br><br>
 
 🔭 **Currently Working On**<br>
 - Building **Python projects** with modern GUI (Bank System, Library System)<br>
