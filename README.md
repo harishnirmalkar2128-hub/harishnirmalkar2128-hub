@@ -8,9 +8,9 @@
 </p>
 
 # 💫 About Me:
-Hey there! 👋<br>
-I'm **Harish Nirmalkar**, currently in my **2nd semester of MCA (AI & ML)** at Rungta International Skills University, Bhilai.  <br>
-Just started this journey, and honestly? It already feels like the right place to be. 🎓<br><br>
+I'm Harish Nirmalkar, currently in my 2nd Semester of MCA (AI & ML) at Rungta International Skills University, Bhilai.<br>
+
+I am a tech explorer who loves spending time on the internet discovering new tools, playing with AI, and building solutions using Low-Code platforms. I enjoy the process of turning ideas into reality without overcomplicating the code. Honestly? This journey already feels like the right place to be. 🚀 🎓<br><br>
 
 Right now, my days are all about:<br>
 - 🐍 **Python** — getting my basics solid so I can actually build things.<br>
