@@ -32,10 +32,12 @@ I’ve realized that great tech is only as good as the person explaining it. Thi
 
 📝 To-Do Task Manager – A streamlined application to manage daily productivity.<br><br>
 
-🔭 **Currently Working On**<br>
-- Building **Python projects** with modern GUI (Bank System, Library System)<br>
-- Mastering **DSA** for placement preparation<br>
-- Exploring **Machine Learning & AI** concepts<br>
+🔭 Current Focus Areas<br>
+🎨 Modern GUI Development – Crafting intuitive desktop applications using Python.
+
+🧠 Problem Solving (DSA) – Refining algorithmic logic and data efficiency.
+
+🤖 AI & ML Research – Exploring Natural Language Processing and intelligent automation.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
