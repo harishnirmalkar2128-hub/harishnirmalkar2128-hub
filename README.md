@@ -28,19 +28,19 @@ I’ve realized that great tech is only as good as the person explaining it. Thi
 
 💻 Live Projects (Ready to Show):<br>
 
-🔢 Advanced Calculator – A clean and functional tool built with Python.
+- 🔢 Advanced Calculator – A clean and functional tool built with Python.
 
-🔐 Secure Password Generator – Logic-based tool for creating high-entropy passwords.
+- 🔐 Secure Password Generator – Logic-based tool for creating high-entropy passwords.
 
-📝 To-Do Task Manager – A streamlined application to manage daily productivity.<br><br>
+- 📝 To-Do Task Manager – A streamlined application to manage daily productivity.<br><br>
 
 🔭 Current Focus Areas:<br>
 
-🎨 Modern GUI Development – Crafting intuitive desktop applications using Python.
+- 🎨 Modern GUI Development – Crafting intuitive desktop applications using Python.
 
-🧠 Problem Solving (DSA) – Refining algorithmic logic and data efficiency.
+- 🧠 Problem Solving (DSA) – Refining algorithmic logic and data efficiency.
 
-🤖 AI & ML Research – Exploring Natural Language Processing and intelligent automation.<br>
+- 🤖 AI & ML Research – Exploring Natural Language Processing and intelligent automation.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
