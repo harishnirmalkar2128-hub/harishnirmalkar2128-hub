@@ -12,21 +12,20 @@ I'm Harish Nirmalkar, currently in my 2nd Semester of MCA (AI & ML) at Rungta In
 
 I am a tech explorer who loves spending time on the internet discovering new tools, playing with AI, and building solutions using Low-Code platforms. I enjoy the process of turning ideas into reality without overcomplicating the code. Honestly? This journey already feels like the right place to be. 🚀 🎓<br><br>
 
-🔭 Currently Diving Into<br>
+🔭 Currently Diving Into:<br>
 - 🐍 Python — Solidifying basics to build robust and efficient scripts.
 
-📘 Data Structures — Strengthening problem-solving logic and algorithmic thinking.
+- 📘 Data Structures — Strengthening problem-solving logic and algorithmic thinking.
 
-🗄️ DBMS — Mastering how data is structured and managed behind the scenes.
+- 🗄️ DBMS — Mastering how data is structured and managed behind the scenes.
 
-🤖 AI Exploration — Deep-diving into NLP and intelligent system concepts<br><br>
+- 🤖 AI Exploration — Deep-diving into NLP and intelligent system concepts<br><br>
 
-🚀 2026 Focus: Communication & Growth<br>
+🚀 2026 Focus: Communication & Growth:<br>
 I’ve realized that great tech is only as good as the person explaining it. This year, I’m doubling down on verbal and written communication to share my ideas more effectively.<br><br>
 
-Still figuring things out, but I'm learning every day. Let's see where this goes! 😊<br>
 
-💻 Live Projects (Ready to Show)
+💻 Live Projects (Ready to Show)<br>
 🔢 Advanced Calculator – A clean and functional tool built with Python.
 
 🔐 Secure Password Generator – Logic-based tool for creating high-entropy passwords.
