@@ -22,17 +22,20 @@ I am a tech explorer who loves spending time on the internet discovering new too
 - 🤖 AI Exploration — Deep-diving into NLP and intelligent system concepts<br><br>
 
 🚀 2026 Focus: Communication & Growth:<br>
+
 I’ve realized that great tech is only as good as the person explaining it. This year, I’m doubling down on verbal and written communication to share my ideas more effectively.<br><br>
 
 
-💻 Live Projects (Ready to Show)<br>
+💻 Live Projects (Ready to Show):<br>
+
 🔢 Advanced Calculator – A clean and functional tool built with Python.
 
 🔐 Secure Password Generator – Logic-based tool for creating high-entropy passwords.
 
 📝 To-Do Task Manager – A streamlined application to manage daily productivity.<br><br>
 
-🔭 Current Focus Areas<br>
+🔭 Current Focus Areas:<br>
+
 🎨 Modern GUI Development – Crafting intuitive desktop applications using Python.
 
 🧠 Problem Solving (DSA) – Refining algorithmic logic and data efficiency.
