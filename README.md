@@ -22,7 +22,7 @@ My motto is *Har din ek naya savera hai*—focusing my energy on the right secur
 
 🚀 2026 Focus: Communication & Growth:<br>
 In cyber security, explaining risks to people is very important. This year, I am actively working on my professional growth and verbal skills to share my learning journey effectively. 📈<br><br>
-- 🗣️ **Verbal Communication** — Practicing simple A2 Level English to explain core security risks clearly without corporate jargon (भारी शब्द).<br><br>
+- 🗣️ **Verbal Communication** — Practicing simple A2 Level English to explain core security risks clearly without corporate jargon.<br><br>
 - ✍️ **Documentation & Writing** — Writing clean, detailed, and professional README files and documentation for all my security labs.<br><br>
 - 🎯 **The Mindset Approach** — Focusing my energy on the right soft skills step-by-step, without taking unnecessary pressure!<br><br>
 
