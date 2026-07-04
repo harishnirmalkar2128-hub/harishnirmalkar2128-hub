@@ -44,9 +44,8 @@ In cyber security, explaining risks to people is very important. This year, I am
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harishnirmalkar2128-hub&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harishnirmalkar2128-hub&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishnirmalkar2128-hub&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=harishnirmalkar2128-hub&show_icons=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=radical)<br/>
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
