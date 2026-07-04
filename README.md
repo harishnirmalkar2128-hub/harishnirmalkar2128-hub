@@ -1,63 +1,48 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
 <p align="center">
-  🗄️ DBMS | 🐍 Python | 📘 DSA
+  🛡️ Cyber Security | 🌐 Network Security | 🕵️‍♂️ Ethical Hacking
 </p>
+<br>
 <!-- PROFILE VIEWS COUNTER -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&label=Profile%20Views&color=6C5CE7&style=flat" alt="profile views" /> 
 </p>
 
 # 💫 About Me:
-I'm Harish Nirmalkar, currently in my 2nd Semester of MCA (AI & ML) at Rungta International Skills University, Bhilai.<br>
+I'm Harish Nirmalkar, currently pursuing my MCA at Rungta International Skills University, Bhilai.<br>
 
-I am a tech explorer who loves spending time on the internet discovering new tools, playing with AI, and building solutions using Low-Code platforms. I enjoy the process of turning ideas into reality without overcomplicating the code. Honestly? This journey already feels like the right place to be. 🚀 🎓<br><br>
+I am a tech explorer passionate about **Cyber Security Management** and **System Auditing**. I love discovering new security tools, finding loopholes (कमियां), and understanding how networks are protected. My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐<br><br>
 
 🔭 Currently Diving Into:<br>
-- 🐍 Python — Solidifying basics to build robust and efficient scripts.
-
-- 📘 Data Structures — Strengthening problem-solving logic and algorithmic thinking.
-
-- 🗄️ DBMS — Mastering how data is structured and managed behind the scenes.
-
-- 🤖 AI Exploration — Deep-diving into NLP and intelligent system concepts<br><br>
+- 🛡️ Network Security — Learning how firewalls, routers, and internet traffic work safely.<br><br>
+- 🔍 Cyber Security Tools — Exploring tools like Wireshark and Nmap to analyze systems.<br><br>
+- 📋 Security Compliance — Understanding the rules, policies, and laws that protect digital data.<br><br>
+- 🧠 Cyber Threat Intelligence — Studying how hackers think and how to stop them.<br><br>
 
 🚀 2026 Focus: Communication & Growth:<br>
+In cyber security, explaining risks to people is very important. This year, I am doubling down on my communication skills to explain security concepts in simple terms. 📈<br><br>
 
-I’ve realized that great tech is only as good as the person explaining it. This year, I’m doubling down on verbal and written communication to share my ideas more effectively.<br><br>
-
-
-💻 Live Projects (Ready to Show):<br>
-
-- 🔢 Advanced Calculator – A clean and functional tool built with Python.
-
-- 🔐 Secure Password Generator – Logic-based tool for creating high-entropy passwords.
-
-- 📝 To-Do Task Manager – A streamlined application to manage daily productivity.<br><br>
+⚙️ Technical Setup:<br>
+- Main Station: Laptop (Intel Core Ultra 5, 16 GB RAM) — Perfect for running security labs and virtual environments. 💻<br><br>
 
 🔭 Current Focus Areas:<br>
-
-- 🎨 Modern GUI Development – Crafting intuitive desktop applications using Python.
-
-- 🧠 Problem Solving (DSA) – Refining algorithmic logic and data efficiency.
-
-- 🤖 AI & ML Research – Exploring Natural Language Processing and intelligent automation.<br>
+- 🕵️‍♂️ Ethical Hacking Concepts — Learning defensive security tactics without heavy coding.<br><br>
+- 🌐 Linux & OS Security — Understanding how operating systems manage user permissions safely.<br><br>
+- 🚫 Risk Assessment — Finding weaknesses in digital systems and planning how to fix them.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nirmalkar-b23776394) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 💻 Tech & Security Stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
