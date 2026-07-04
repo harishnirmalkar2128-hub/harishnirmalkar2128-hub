@@ -11,7 +11,8 @@
 # 💫 About Me:
 I'm Harish Nirmalkar, currently pursuing my MCA at Rungta International Skills University, Bhilai.<br>
 
-I am a tech explorer passionate about **Cyber Security Management** and **System Auditing**. I love discovering new security tools, finding loopholes (कमियां), and understanding how networks are protected. My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐<br><br>
+I am a tech explorer passionate about **Cyber Security Management** and **System Auditing**. I love discovering new security tools, finding loopholes, and understanding how networks are protected.<br>
+My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐<br><br>
 
 🔭 Currently Diving Into:<br>
 - 🛡️ Network Security — Learning how firewalls, routers, and internet traffic work safely.<br><br>
@@ -21,9 +22,6 @@ I am a tech explorer passionate about **Cyber Security Management** and **System
 
 🚀 2026 Focus: Communication & Growth:<br>
 In cyber security, explaining risks to people is very important. This year, I am doubling down on my communication skills to explain security concepts in simple terms. 📈<br><br>
-
-⚙️ Technical Setup:<br>
-- Main Station: Laptop (Intel Core Ultra 5, 16 GB RAM) — Perfect for running security labs and virtual environments. 💻<br><br>
 
 🔭 Current Focus Areas:<br>
 - 🕵️‍♂️ Ethical Hacking Concepts — Learning defensive security tactics without heavy coding.<br><br>
