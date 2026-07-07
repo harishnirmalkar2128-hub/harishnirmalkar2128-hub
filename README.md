@@ -50,6 +50,8 @@ In cyber security, explaining risks to people is very important. This year, I am
 ![](https://github-readme-stats.vercel.app/api?username=harishnirmalkar2128-hub&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=radical)<br/>
 
+[![Harish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harishnirmalkar2128-hub&theme=dark)](https://git.io/streak-stats)
+
 <!-- SNAKE ANIMATION -->
 <p align="center">
   <picture>
