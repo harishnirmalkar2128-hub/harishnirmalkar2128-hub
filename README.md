@@ -46,11 +46,16 @@ In cyber security, explaining risks to people is very important. This year, I am
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harishnirmalkar2128-hub&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=radical)<br/>
-
-[![Harish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=tokyonight" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
