@@ -26,12 +26,6 @@ In cyber security, explaining risks to people is very important. This year, I am
 - ✍️ **Documentation & Writing** — Writing clean, detailed, and professional README files and documentation for all my security labs.<br><br>
 - 🎯 **The Mindset Approach** — Focusing my energy on the right soft skills step-by-step, without taking unnecessary pressure!<br><br>
 
-🔭 Current Focus Areas:<br>
-- 🐧 **Linux & OS Security** — Understanding how operating systems manage user permissions, files, and core security settings safely.<br><br>
-- ☁️ **Cloud Infrastructure (Azure)** — Learning how cloud networks function and how to secure digital environments in the cloud.<br><br>
-- 🌐 **Network Defense Basics** — Mastering routers, switches, and internet traffic analysis to block unauthorized access.<br><br>
-- 📧 **Enterprise Admin Tools** — Learning Outlook and enterprise administration tools to manage and protect organization networks.<br>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nirmalkar-b23776394) 
@@ -66,7 +60,7 @@ In cyber security, explaining risks to people is very important. This year, I am
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=tokyonight" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
