@@ -50,7 +50,7 @@ In cyber security, explaining risks to people is very important. This year, I am
 ![](https://github-readme-stats.vercel.app/api?username=harishnirmalkar2128-hub&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=radical)<br/>
 
-[![Harish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=github-notification)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
