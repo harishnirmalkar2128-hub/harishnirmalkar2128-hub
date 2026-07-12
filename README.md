@@ -11,14 +11,14 @@
 # 💫 About Me:
 I'm Harish Nirmalkar, currently pursuing my MCA at Rungta International Skills University, Bhilai.<br>
 
-I am a tech explorer passionate about **Cyber Security Management** and **System Auditing**. I love discovering new security tools, finding loopholes, and understanding how networks are protected.<br>
-My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐<br><br>
+I am a tech explorer passionate about **Cyber Security Management**, **System Auditing**, and building a rock-solid foundation in IT infrastructure. I love understanding how networks are protected, how systems operate, and how cloud environments remain secure.<br>
+My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐 <br><br>
 
-🔭 Currently Diving Into:<br>
-- 🛡️ Network Security — Learning how firewalls, routers, and internet traffic work safely.<br><br>
-- 🔍 Cyber Security Tools — Exploring tools like Wireshark and Nmap to analyze systems.<br><br>
-- 📋 Security Compliance — Understanding the rules, policies, and laws that protect digital data.<br><br>
-- 🧠 Cyber Threat Intelligence — Studying how hackers think and how to stop them.<br><br>
+🔭 Currently Diving Into (Building My Cyber Security Base):<br>
+- 🐧 **Linux & OS Core** — Learning operating system fundamentals, system administration, and command-line security basics.<br><br>
+- ☁️ **Cloud Infrastructure (Azure)** — Exploring cloud networks, identity management, and securing virtual environments.<br><br>
+- 🌐 **Networking Fundamentals** — Understanding routing, switching, internet traffic, and foundational network defense.<br><br>
+- 📧 **Enterprise Tools (Outlook & Admin)** — Mastering organizational communication security and enterprise user management tools.<br><br>
 
 🚀 2026 Focus: Communication & Growth:<br>
 In cyber security, explaining risks to people is very important. This year, I am actively working on my professional growth and verbal skills to share my learning journey effectively. 📈<br><br>
@@ -27,9 +27,10 @@ In cyber security, explaining risks to people is very important. This year, I am
 - 🎯 **The Mindset Approach** — Focusing my energy on the right soft skills step-by-step, without taking unnecessary pressure!<br><br>
 
 🔭 Current Focus Areas:<br>
-- 🕵️‍♂️ Ethical Hacking Concepts — Learning defensive security tactics without heavy coding.<br><br>
-- 🌐 Linux & OS Security — Understanding how operating systems manage user permissions safely.<br><br>
-- 🚫 Risk Assessment — Finding weaknesses in digital systems and planning how to fix them.<br>
+- 🐧 **Linux & OS Security** — Understanding how operating systems manage user permissions, files, and core security settings safely.<br><br>
+- ☁️ **Cloud Infrastructure (Azure)** — Learning how cloud networks function and how to secure digital environments in the cloud.<br><br>
+- 🌐 **Network Defense Basics** — Mastering routers, switches, and internet traffic analysis to block unauthorized access.<br><br>
+- 📧 **Enterprise Admin Tools** — Learning Outlook and enterprise administration tools to manage and protect organization networks.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
@@ -37,10 +38,21 @@ In cyber security, explaining risks to people is very important. This year, I am
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com) 
 
 # 💻 Tech & Security Stack:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛡️ Cyber Security & Networks
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
+### ☁️ Cloud Infrastructure & Enterprise Tools
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+### 🐧 OS & Core Terminals
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### 🐬 Databases & Dev Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
