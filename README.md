@@ -60,7 +60,7 @@ In cyber security, explaining risks to people is very important. This year, I am
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=tokyonight" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128-hub&theme=dracula" alt="GitHub Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
