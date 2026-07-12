@@ -78,6 +78,6 @@ In cyber security, explaining risks to people is very important. This year, I am
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <br>
-  <i>🚀 Let's connect and grow together! 🚀</i>
+  <i>🚀 Let's connect and grow together 🚀</i>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&reversal=true&section=footer" width="100%">
