@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
 <p align="center">
-  🛡️ Cyber Security | 🌐 Network Security | 🕵️‍♂️ Ethical Hacking
+  🛡️ Cyber Security | ☁️ Cloud Infrastructure | 🌐 Network Defense
 </p>
 <br>
 <!-- PROFILE VIEWS COUNTER -->
