@@ -57,11 +57,18 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)<br>
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)<br><br>
 
-## 📊 My GitHub Journey
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishnirmalkar2128-hub&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="60%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=harishnirmalkar2128&theme=tokyonight" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishnirmalkar2128&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
