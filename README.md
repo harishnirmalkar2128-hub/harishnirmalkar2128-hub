@@ -12,7 +12,7 @@
 # 💫 About Me:
 I'm **Harish Nirmalkar**, currently pursuing my **MCA** at Rungta International Skills University, Bhilai 🎓. 
 
-I am a tech explorer passionate about building a rock-solid foundation in **Cloud Computing, Infrastructure Security, and Artificial Intelligence** ☁️🤖. Starting August 1st, I am diving deep into a specialized **Diploma in Cloud with AI** to build modern, intelligent systems!
+I am a tech explorer passionate about building a rock-solid foundation in **Cloud Computing, Infrastructure Security, and Artificial Intelligence** ☁️🤖.I am diving deep into a specialized **Diploma in Cloud with AI** to build modern, intelligent systems!
 
 My motto is ***Har din ek naya savera hai***—focusing my energy on the right tech skills without unnecessary pressure using the **"Mindset Approach"**! 🧠✨
 
@@ -70,7 +70,6 @@ In tech, explaining ideas clearly to people is very important. This year, I am a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <table>
