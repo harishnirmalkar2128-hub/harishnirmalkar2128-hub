@@ -1,75 +1,57 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Harish%20Nirmalkar&fontSize=48&fontAlignY=35" width="100%">
 <p align="center">
-  ☁️ Cloud Infrastructure | 🤖 Artificial Intelligence | 🌐 Network Defense
+  🛡️ Cyber Security | ☁️ Cloud Infrastructure | 🌐 Network Defense
 </p>
 <br>
-
 <!-- PROFILE VIEWS COUNTER -->
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&label=Profile%20Views&color=6C5CE7&style=flat" alt="profile views" />  
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&label=Profile%20Views&color=6C5CE7&style=flat" alt="profile views" /> 
 </p>
 
 # 💫 About Me:
-I'm **Harish Nirmalkar**, currently pursuing my **MCA** at Rungta International Skills University, Bhilai 🎓. 
+I'm Harish Nirmalkar, currently pursuing my MCA at Rungta International Skills University, Bhilai.<br>
 
-I am a tech explorer passionate about building a rock-solid foundation in **Cloud Computing, Infrastructure Security, and Artificial Intelligence** ☁️🤖.I am diving deep into a specialized **Diploma in Cloud with AI** to build modern, intelligent systems!
+I am a tech explorer passionate about **Cyber Security Management**, **System Auditing**, and building a rock-solid foundation in IT infrastructure. I love understanding how networks are protected, how systems operate, and how cloud environments remain secure.<br>
+My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐 <br><br>
 
-My motto is ***Har din ek naya savera hai***—focusing my energy on the right tech skills without unnecessary pressure using the **"Mindset Approach"**! 🧠✨
+🔭 Currently Diving Into (Building My Cyber Security Base):<br>
+- 🐧 **Linux & OS Core** — Learning operating system fundamentals, system administration, and command-line security basics.<br><br>
+- ☁️ **Cloud Infrastructure (Azure)** — Exploring cloud networks, identity management, and securing virtual environments.<br><br>
+- 🌐 **Networking Fundamentals** — Understanding routing, switching, internet traffic, and foundational network defense.<br><br>
+- 📧 **Enterprise Tools (Outlook & Admin)** — Mastering organizational communication security and enterprise user management tools.<br><br>
 
----
-
-### 🔭 Currently Diving Into & Learning (Cloud & AI Journey):
-
-* ☁️ **Cloud & Infrastructure** — Exploring AWS and Microsoft Azure (Core Services, IAM, Storage, and Automation)[cite: 1]. Mastering server management with Windows Server 2022 and RedHat Enterprise Linux (RHEL SA1)[cite: 1].
-* 🤖 **AI & Next-Gen Tech** — Learning Text Preprocessing, NLP (Bag of Words, TF-IDF, NER), and advanced Prompt Engineering for GPT/Co-Pilot models[cite: 1].
-* 🌐 **Advanced Networking & Security** — Understanding Cisco CCNA (Routing & Switching), network security tools like Wireshark, and Fortinet Firewall rules[cite: 1].
-* 🛠️ **Enterprise & Service Tools** — Learning smart IT management via Jira Admin, Zoho Service Desk, ServiceNow, and AI monitoring tools like Splunk and Grafana[cite: 1].
-
----
-
-### 🚀 2026 Focus: Communication & Growth:
-In tech, explaining ideas clearly to people is very important. This year, I am actively working on my professional growth and verbal skills to share my learning journey effectively 📈.
-
-* 🗣️ **Verbal Communication** — Practicing simple A2 Level English to explain technical risk and core concepts clearly without corporate jargon.
-* ✍️ **Documentation & Writing** — Writing clean, detailed, and professional README files and good commit messages for all my repositories[cite: 1].
-* 🎯 **The Mindset Approach** — Focusing my energy on the right skills step-by-step, without taking unnecessary pressure!
-
----
+🚀 2026 Focus: Communication & Growth:<br>
+In cyber security, explaining risks to people is very important. This year, I am actively working on my professional growth and verbal skills to share my learning journey effectively. 📈<br><br>
+- 🗣️ **Verbal Communication** — Practicing simple A2 Level English to explain core security risks clearly without corporate jargon.<br><br>
+- ✍️ **Documentation & Writing** — Writing clean, detailed, and professional README files and documentation for all my security labs.<br><br>
+- 🎯 **The Mindset Approach** — Focusing my energy on the right soft skills step-by-step, without taking unnecessary pressure!<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nirmalkar-b23776394) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com) 
 
----
+# 💻 Tech & Security Stack:
 
-# 💻 Tech Stack & Tools:
-
-### ☁️ Cloud, DevOps & Servers
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-
-### 🤖 Programming & AI Tools
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-### 🌐 Networking & Core OS
-![](https://img.shields.io/badge/Cisco-1CA586?style=for-the-badge&logo=cisco&logoColor=white)
+### 🛡️ Cyber Security & Networks
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
+### ☁️ Cloud Infrastructure & Enterprise Tools
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+### 🐧 OS & Core Terminals
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### 🐬 IT Admin & Development
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+### 🐬 Databases & Dev Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 ## 📊 GitHub Stats
 
 <table>
