@@ -9,48 +9,52 @@
 </p>
 
 # 💫 About Me:
-I'm Harish Nirmalkar, currently pursuing my MCA at Rungta International Skills University, Bhilai.<br>
+I'm Harish Nirmalkar, MCA student at Rungta International Skills University, Bhilai, now stepping into my Cyber Security & Cloud Computing journey.,<br>
 
-I am a tech explorer passionate about **Cyber Security Management**, **System Auditing**, and building a rock-solid foundation in IT infrastructure. I love understanding how networks are protected, how systems operate, and how cloud environments remain secure.<br>
-My motto is *Har din ek naya savera hai*—focusing my energy on the right security skills without unnecessary pressure! 🛡️🌐 <br><br>
+I am passionate about Network Defense, Cloud Infrastructure, and AI-powered Security Tools. My focus is to build a strong foundation in IT Infrastructure, Cyber Security Management, and Cloud Platforms (Azure + AWS).<br>
+My motto remains: Har din ek naya savera hai — every day is a fresh start to learn and grow! 🌐🛡️ <br><br>
 
-🔭 Currently Diving Into (Building My Cyber Security Base):<br>
-- 🐧 **Linux & OS Core** — Learning operating system fundamentals, system administration, and command-line security basics.<br><br>
-- ☁️ **Cloud Infrastructure (Azure)** — Exploring cloud networks, identity management, and securing virtual environments.<br><br>
-- 🌐 **Networking Fundamentals** — Understanding routing, switching, internet traffic, and foundational network defense.<br><br>
-- 📧 **Enterprise Tools (Outlook & Admin)** — Mastering organizational communication security and enterprise user management tools.<br><br>
+🔭 **Currently Diving Into (Institute Syllabus Highlights):**<br>
+- 🖥️ **PC Hardware & Troubleshooting** — RAM, motherboard, BIOS/UEFI, printers, diagnostic tools.<br>
+- 🐧 **Operating Systems (Windows + Linux)** — Installation, dual boot, PowerShell, WSL, Linux commands, OS security patches.<br>
+- 🌐 **Networking Essentials** — OSI model, IP addressing, subnetting, DNS/DHCP, Wireshark monitoring, firewall basics.<br>
+- ☁️ **Cloud Computing (Azure + AWS)** — IAM, storage, networking, monitoring, automation, VPC, Route 53.<br>
+- 🔒 **Cyber Security Tools** — Fortinet firewall, IDS/IPS, VPN, SSL/TLS, Splunk, Grafana, AI-powered monitoring.<br>
+- 📊 **Service Desk Tools** — Jira, ServiceNow, Zoho Desk, Nagios monitoring.<br>
+- 🧠 **Behavioral & Communication Skills** — Risk communication, compliance awareness, professional documentation, interview prep.<br><br>
 
-🚀 2026 Focus: Communication & Growth:<br>
-In cyber security, explaining risks to people is very important. This year, I am actively working on my professional growth and verbal skills to share my learning journey effectively. 📈<br><br>
-- 🗣️ **Verbal Communication** — Practicing simple A2 Level English to explain core security risks clearly without corporate jargon.<br><br>
-- ✍️ **Documentation & Writing** — Writing clean, detailed, and professional README files and documentation for all my security labs.<br><br>
-- 🎯 **The Mindset Approach** — Focusing my energy on the right soft skills step-by-step, without taking unnecessary pressure!<br><br>
+🚀 **2026 Focus: Communication & Growth**<br>
+Cyber Security is not just about tools — it’s about **explaining risks clearly**. This year I’m sharpening:<br>
+- 🗣️ **English Communication (A2 Level)** — simple, clear explanations of security risks.<br>
+- ✍️ **Documentation & Writing** — professional README files, GitHub commits, and lab reports.<br>
+- 🎯 **Mindset Approach** — balancing technical depth with soft skills, step by step.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nirmalkar-b23776394) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com) 
 
-# 💻 Tech & Security Stack:
+# 💻 Tech & Security Stack (Upgraded)<br>
 
-### 🛡️ Cyber Security & Networks
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white)
+### 🛡️ Cyber Security & Networks<br>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)<br>
+![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white)<br>
+![Fortinet](https://img.shields.io/badge/Fortinet-FC0000?style=for-the-badge&logo=fortinet&logoColor=white)<br><br>
 
-### ☁️ Cloud Infrastructure & Enterprise Tools
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+### ☁️ Cloud Infrastructure<br>
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<br>
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)<br><br>
 
-### 🐧 OS & Core Terminals
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+### 🐧 OS & Servers<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)<br>
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)<br><br>
 
-### 🐬 Databases & Dev Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🧠 AI & Monitoring<br>
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)<br>
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)<br>
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)<br><br>
 
 ## 📊 GitHub Stats
 
