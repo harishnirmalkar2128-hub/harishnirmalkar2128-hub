@@ -9,12 +9,13 @@
 </p>
 
 # 💫 About Me:
-I'm Harish Nirmalkar, MCA student at Rungta International Skills University, Bhilai, now stepping into my Cyber Security & Cloud Computing journey.,<br>
+I'm Harish Nirmalkar, MCA student at Rungta International Skills University, Bhilai, now stepping into my Cyber Security & Cloud Computing journey.<br>
 
 I am passionate about Network Defense, Cloud Infrastructure, and AI-powered Security Tools. My focus is to build a strong foundation in IT Infrastructure, Cyber Security Management, and Cloud Platforms (Azure + AWS).<br>
-My motto remains: Har din ek naya savera hai — every day is a fresh start to learn and grow! 🌐🛡️ <br><br>
 
-🔭 **Currently Diving Into (Institute Syllabus Highlights):**<br>
+Every day is a fresh start to learn and grow 🌐🛡️ <br><br>
+
+🔭 **Currently Diving Into:**<br>
 - 🖥️ **PC Hardware & Troubleshooting** — RAM, motherboard, BIOS/UEFI, printers, diagnostic tools.<br>
 - 🐧 **Operating Systems (Windows + Linux)** — Installation, dual boot, PowerShell, WSL, Linux commands, OS security patches.<br>
 - 🌐 **Networking Essentials** — OSI model, IP addressing, subnetting, DNS/DHCP, Wireshark monitoring, firewall basics.<br>
@@ -25,7 +26,7 @@ My motto remains: Har din ek naya savera hai — every day is a fresh start to l
 
 🚀 **2026 Focus: Communication & Growth**<br>
 Cyber Security is not just about tools — it’s about **explaining risks clearly**. This year I’m sharpening:<br>
-- 🗣️ **English Communication (A2 Level)** — simple, clear explanations of security risks.<br>
+- 🗣️ **English Communication** — simple, clear explanations of security risks.<br>
 - ✍️ **Documentation & Writing** — professional README files, GitHub commits, and lab reports.<br>
 - 🎯 **Mindset Approach** — balancing technical depth with soft skills, step by step.<br><br>
 
