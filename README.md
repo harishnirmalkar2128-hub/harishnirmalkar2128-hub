@@ -30,10 +30,11 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 - ✍️ **Documentation & Writing** — professional README files, GitHub commits, and lab reports.<br>
 - 🎯 **Mindset Approach** — balancing technical depth with soft skills, step by step.<br><br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nirmalkar-b23776394)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@harishnirmalkar2128)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harish._.nirmalkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-nirmalkar-b23776394)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishnirmalkar2128@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harishnirmalkar2128)
 
 # 💻 Tech Stack & Tools:
 
