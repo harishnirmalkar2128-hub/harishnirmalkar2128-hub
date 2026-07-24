@@ -50,13 +50,9 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 ### 🤖 AI, Monitoring & Administration
 ![](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 
-## 🚀 Featured Projects & Lab Guides
-
-| Project / Lab | Technologies Used | Key Highlights |
-| :--- | :--- | :--- |
-| **[AWS Cloud Infrastructure](#)** | AWS, EC2, S3, IAM | Step-by-step setup guide for AWS core services. |
-| **[Linux Server Admin Playbook](#)** | RedHat Linux, Bash | Helpful commands and configuration steps for sysadmins. |
-| **[CCNA Networking Guide](#)** | Cisco, Packet Tracer | Simple breakdowns of routing, switching, and subnets. |
+## 📝 Latest Medium Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
 
