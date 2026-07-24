@@ -52,6 +52,11 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 
 ## 📝 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Why I Switched My Focus to Cloud &amp; AI](https://harishnirmalkar2128.medium.com/why-i-switched-my-focus-to-cloud-ai-3f9c0608724c?source=rss-0d96290e0123------2)
+- [We Don’t Attract What We Want, We Attract What We Are ✨](https://harishnirmalkar2128.medium.com/we-dont-attract-what-we-want-we-attract-what-we-are-e0a92c5fd591?source=rss-0d96290e0123------2)
+- [Why &quot;New Day, New Learning&quot; Is the Best Rule for Success](https://harishnirmalkar2128.medium.com/why-new-day-new-learning-is-the-best-rule-for-success-fe77f5367a97?source=rss-0d96290e0123------2)
+- [My 90-Day Challenge: How Small Daily Habits Change Your Life](https://harishnirmalkar2128.medium.com/my-90-day-challenge-how-small-daily-habits-change-your-life-e941d69f210c?source=rss-0d96290e0123------2)
+- [Why I Created a Medium Account Today &lpar;As a Tech Student&rpar;](https://harishnirmalkar2128.medium.com/why-i-created-a-medium-account-today-as-a-tech-student-a734b14acb76?source=rss-0d96290e0123------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
