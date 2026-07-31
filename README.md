@@ -70,20 +70,23 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
   </picture>
 </p>
 
-<!-- PAC-MAN ANIMATION (DARK MODE FIXED) -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-dark.svg">
+<!-- PAC-MAN ANIMATION  -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-light.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph.svg">
 
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-dark.svg">
-</picture>
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
+
 
 <!-- SUPPORT -->
 <p align="center">
