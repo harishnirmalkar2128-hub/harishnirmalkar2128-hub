@@ -2,9 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    # Runs automatically every 24 hours
     - cron: "0 */24 * * *"
-  workflow_dispatch: # Allows manual trigger anytime
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -21,6 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: harishnirmalkar2128-hub
+          theme: dark 
 
       - name: push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
