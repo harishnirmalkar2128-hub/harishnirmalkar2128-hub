@@ -79,7 +79,7 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 </p>
 
 <p align="center">
-  <i>>Eating commits, chasing consistency, one contribution at a time</i
+  <i>Eating commits, chasing consistency, one contribution at a time</i
 </p>
 <!-- PAC-MAN ANIMATION -->
 <p align="center">
