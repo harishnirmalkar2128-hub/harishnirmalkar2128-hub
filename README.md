@@ -3,9 +3,20 @@
   🛡️ Cyber Security | ☁️ Cloud Infrastructure | 🌐 Network Defense
 </p>
 <br>
-<!-- PROFILE VIEWS COUNTER -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&label=Profile%20Views&color=6C5CE7&style=flat" alt="profile views" /> 
+
+<p align="left">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&color=0e75a7&style=flat-square" alt="Profile Views" />
+
+  <!-- Followers Badge -->
+  <a href="https://github.com/harishnirmalkar2128-hub">
+    <img src="https://img.shields.io/github/followers/harishnirmalkar2128-hub?label=Followers&style=social" alt="Followers">
+  </a>
+
+  <!-- Stars Badge -->
+  <a href="https://github.com/harishnirmalkar2128-hub">
+    <img src="https://img.shields.io/github/stars/harishnirmalkar2128-hub?label=Stars&style=social" alt="Stars">
+  </a>
 </p>
 
 # 💫 About Me:
