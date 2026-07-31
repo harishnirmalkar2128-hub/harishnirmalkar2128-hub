@@ -61,6 +61,10 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
   </tr>
 </table>
 
+<p align="center">
+  <i>Turning every contribution into a growing journey.</i>
+</p>
+
 <!-- SNAKE ANIMATION -->
 <p align="center">
   <picture>
