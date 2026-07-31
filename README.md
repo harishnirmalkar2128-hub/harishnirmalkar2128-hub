@@ -61,6 +61,8 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
   </tr>
 </table>
 
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph.svg)
+
 <!-- SNAKE ANIMATION -->
 <p align="center">
   <picture>
