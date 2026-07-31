@@ -8,16 +8,6 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=harishnirmalkar2128-hub&color=0e75a7&style=flat-square" alt="Profile Views" />
 
-  <!-- Followers Badge -->
-  <a href="https://github.com/harishnirmalkar2128-hub">
-    <img src="https://img.shields.io/github/followers/harishnirmalkar2128-hub?label=Followers&style=social" alt="Followers">
-  </a>
-
-  <!-- Stars Badge -->
-  <a href="https://github.com/harishnirmalkar2128-hub">
-    <img src="https://img.shields.io/github/stars/harishnirmalkar2128-hub?label=Stars&style=social" alt="Stars">
-  </a>
-</p>
 
 # 💫 About Me:
 I'm Harish Nirmalkar, MCA student at Rungta International Skills University, Bhilai, now stepping into my Cyber Security & Cloud Computing journey.<br>
