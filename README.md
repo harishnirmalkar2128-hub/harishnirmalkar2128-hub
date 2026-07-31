@@ -63,7 +63,7 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 </table>
 
 <h3 align="center">🐍 Snake Contribution Graph 🐍</h3>
-<p align="center"><i>Turning every contribution into a growing journey.</i></p>
+<p align="center"><i>Every contribution is a step toward continuous growth.</i></p>
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
