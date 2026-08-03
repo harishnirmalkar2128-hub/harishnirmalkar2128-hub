@@ -62,6 +62,7 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
   </tr>
 </table>
 
+
 <h3 align="center">🐍 Snake Contribution Graph 🐍</h3>
 <p align="center"><i>Every contribution is a step toward continuous growth.</i></p>
 
@@ -85,12 +86,12 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/dist/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph.svg">
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph.svg">
     <img
       alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph-dark.svg">
+      src="https://raw.githubusercontent.com/harishnirmalkar2128-hub/harishnirmalkar2128-hub/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
