@@ -56,8 +56,8 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishnirmalkar2128-hub&theme=tokyonight" alt="GitHub Streak" width="100%" />
     </td>
-  <td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harishnirmalkar2128-hub&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
+ <td width="50%" align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harishnirmalkar2128-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </td>
   </tr>
 </table>
