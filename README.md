@@ -59,7 +59,8 @@ Cyber Security is not just about tools — it’s about **explaining risks clear
  <td width="50%" align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harishnirmalkar2128-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </td>
-
+</tr>
+</table>
 
 <h3 align="center">🐍 Snake Contribution Graph 🐍</h3>
 <p align="center"><i>Every contribution is a step toward continuous growth.</i></p>
